@@ -515,7 +515,7 @@ Der Parameter `-O` aktiviert die Betriebssystemerkennung von Nmap.
 
 ### Screenshot
 
-![Betriebssystem-Fingerprinting](../Screenshots/7.png)
+![Betriebssystem-Fingerprinting](../Screenshots/8.png)
 
 ### Auswertung
 
@@ -715,7 +715,7 @@ PORT     STATE SERVICE     VERSION
 
 ### Screenshot
 
-![Kontrollscan der ausgewählten Dienste](../Screenshots/8.png)
+![Kontrollscan der ausgewählten Dienste](../Screenshots/7.png)
 
 ### Auswertung
 
